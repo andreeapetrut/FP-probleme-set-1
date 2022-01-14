@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\bin\Release\netcoreapp3.0\PB2EXAM.exe
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\bin\Release\netcoreapp3.0\PB2EXAM.deps.json
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\bin\Release\netcoreapp3.0\PB2EXAM.runtimeconfig.json
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\bin\Release\netcoreapp3.0\PB2EXAM.runtimeconfig.dev.json
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\bin\Release\netcoreapp3.0\PB2EXAM.dll
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\bin\Release\netcoreapp3.0\PB2EXAM.pdb
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\obj\Release\netcoreapp3.0\PB2EXAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\obj\Release\netcoreapp3.0\PB2EXAM.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\obj\Release\netcoreapp3.0\PB2EXAM.AssemblyInfo.cs
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\obj\Release\netcoreapp3.0\PB2EXAM.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\obj\Release\netcoreapp3.0\PB2EXAM.dll
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\obj\Release\netcoreapp3.0\PB2EXAM.pdb
+C:\Users\asus\Desktop\FPEXAM\PB2EXAM\PB2EXAM\obj\Release\netcoreapp3.0\PB2EXAM.genruntimeconfig.cache

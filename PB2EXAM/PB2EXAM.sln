@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB2EXAM", "PB2EXAM\PB2EXAM.csproj", "{8B655841-CC22-4DB1-A570-3C4ACF3357CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B655841-CC22-4DB1-A570-3C4ACF3357CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B655841-CC22-4DB1-A570-3C4ACF3357CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B655841-CC22-4DB1-A570-3C4ACF3357CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B655841-CC22-4DB1-A570-3C4ACF3357CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEDA96F7-063C-4338-8E38-AE1F1A85DDDC}
+	EndGlobalSection
+EndGlobal
