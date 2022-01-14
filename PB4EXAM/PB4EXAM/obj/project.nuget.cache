@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9t8b1F11Xnav9LNOXkTtWc427UR3st8r02yZc9ggxWa0gGblPomaW+q75IjsAcp9wbp2iYOXXm4LV0RSyHFuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\FACULTA 2021-2022\\FP EXAM\\FPEXAM\\PB4EXAM\\PB4EXAM\\PB4EXAM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
