@@ -1,0 +1,10 @@
+C:\Users\valiv\source\repos\PB11EXAM\PB11EXAM\bin\Debug\netcoreapp3.0\PB11EXAM.exe
+C:\Users\valiv\source\repos\PB11EXAM\PB11EXAM\bin\Debug\netcoreapp3.0\PB11EXAM.deps.json
+C:\Users\valiv\source\repos\PB11EXAM\PB11EXAM\bin\Debug\netcoreapp3.0\PB11EXAM.runtimeconfig.json
+C:\Users\valiv\source\repos\PB11EXAM\PB11EXAM\bin\Debug\netcoreapp3.0\PB11EXAM.runtimeconfig.dev.json
+C:\Users\valiv\source\repos\PB11EXAM\PB11EXAM\bin\Debug\netcoreapp3.0\PB11EXAM.dll
+C:\Users\valiv\source\repos\PB11EXAM\PB11EXAM\bin\Debug\netcoreapp3.0\PB11EXAM.pdb
+C:\Users\valiv\source\repos\PB11EXAM\PB11EXAM\obj\Debug\netcoreapp3.0\PB11EXAM.AssemblyInfoInputs.cache
+C:\Users\valiv\source\repos\PB11EXAM\PB11EXAM\obj\Debug\netcoreapp3.0\PB11EXAM.AssemblyInfo.cs
+C:\Users\valiv\source\repos\PB11EXAM\PB11EXAM\obj\Debug\netcoreapp3.0\PB11EXAM.dll
+C:\Users\valiv\source\repos\PB11EXAM\PB11EXAM\obj\Debug\netcoreapp3.0\PB11EXAM.pdb
