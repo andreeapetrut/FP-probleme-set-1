@@ -1,0 +1,10 @@
+C:\Users\valiv\source\repos\PB17EXAM\PB17EXAM\bin\Debug\netcoreapp3.0\PB17EXAM.exe
+C:\Users\valiv\source\repos\PB17EXAM\PB17EXAM\bin\Debug\netcoreapp3.0\PB17EXAM.deps.json
+C:\Users\valiv\source\repos\PB17EXAM\PB17EXAM\bin\Debug\netcoreapp3.0\PB17EXAM.runtimeconfig.json
+C:\Users\valiv\source\repos\PB17EXAM\PB17EXAM\bin\Debug\netcoreapp3.0\PB17EXAM.runtimeconfig.dev.json
+C:\Users\valiv\source\repos\PB17EXAM\PB17EXAM\bin\Debug\netcoreapp3.0\PB17EXAM.dll
+C:\Users\valiv\source\repos\PB17EXAM\PB17EXAM\bin\Debug\netcoreapp3.0\PB17EXAM.pdb
+C:\Users\valiv\source\repos\PB17EXAM\PB17EXAM\obj\Debug\netcoreapp3.0\PB17EXAM.AssemblyInfoInputs.cache
+C:\Users\valiv\source\repos\PB17EXAM\PB17EXAM\obj\Debug\netcoreapp3.0\PB17EXAM.AssemblyInfo.cs
+C:\Users\valiv\source\repos\PB17EXAM\PB17EXAM\obj\Debug\netcoreapp3.0\PB17EXAM.dll
+C:\Users\valiv\source\repos\PB17EXAM\PB17EXAM\obj\Debug\netcoreapp3.0\PB17EXAM.pdb

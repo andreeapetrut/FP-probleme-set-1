@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7AwxCv4Ik1b3EdPZVoksSNvNtXS8asRW6zPw7k3HPTqU9yvx/XbkwiHXmY7UWH38QNaxX4aQPrjouj0R40OXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\FACULTA 2021-2022\\FP EXAM\\FPEXAM\\PB17EXAM\\PB17EXAM\\PB17EXAM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
