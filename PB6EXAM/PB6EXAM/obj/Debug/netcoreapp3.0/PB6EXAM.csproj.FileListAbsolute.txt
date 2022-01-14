@@ -1,0 +1,10 @@
+C:\Users\valiv\source\repos\PB6EXAM\PB6EXAM\obj\Debug\netcoreapp3.0\PB6EXAM.AssemblyInfoInputs.cache
+C:\Users\valiv\source\repos\PB6EXAM\PB6EXAM\obj\Debug\netcoreapp3.0\PB6EXAM.AssemblyInfo.cs
+C:\Users\valiv\source\repos\PB6EXAM\PB6EXAM\bin\Debug\netcoreapp3.0\PB6EXAM.exe
+C:\Users\valiv\source\repos\PB6EXAM\PB6EXAM\bin\Debug\netcoreapp3.0\PB6EXAM.deps.json
+C:\Users\valiv\source\repos\PB6EXAM\PB6EXAM\bin\Debug\netcoreapp3.0\PB6EXAM.runtimeconfig.json
+C:\Users\valiv\source\repos\PB6EXAM\PB6EXAM\bin\Debug\netcoreapp3.0\PB6EXAM.runtimeconfig.dev.json
+C:\Users\valiv\source\repos\PB6EXAM\PB6EXAM\bin\Debug\netcoreapp3.0\PB6EXAM.dll
+C:\Users\valiv\source\repos\PB6EXAM\PB6EXAM\bin\Debug\netcoreapp3.0\PB6EXAM.pdb
+C:\Users\valiv\source\repos\PB6EXAM\PB6EXAM\obj\Debug\netcoreapp3.0\PB6EXAM.dll
+C:\Users\valiv\source\repos\PB6EXAM\PB6EXAM\obj\Debug\netcoreapp3.0\PB6EXAM.pdb
