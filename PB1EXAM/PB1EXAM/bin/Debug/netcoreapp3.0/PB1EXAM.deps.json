@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "PB1EXAM/1.0.0": {
+        "runtime": {
+          "PB1EXAM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PB1EXAM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

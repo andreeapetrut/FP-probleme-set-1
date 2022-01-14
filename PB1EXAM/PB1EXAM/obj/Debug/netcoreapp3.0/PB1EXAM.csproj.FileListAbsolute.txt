@@ -1,0 +1,50 @@
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.exe
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.deps.json
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.runtimeconfig.json
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.runtimeconfig.dev.json
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.dll
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.pdb
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.csprojAssemblyReference.cache
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.AssemblyInfoInputs.cache
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.AssemblyInfo.cs
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.dll
+C:\Users\valiv\source\repos\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.pdb
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.exe
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.deps.json
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.runtimeconfig.json
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.runtimeconfig.dev.json
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.dll
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.pdb
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.csprojAssemblyReference.cache
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.AssemblyInfoInputs.cache
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.AssemblyInfo.cs
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.dll
+C:\Users\Cami\Desktop\FPEXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.pdb
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.exe
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.deps.json
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.runtimeconfig.json
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.runtimeconfig.dev.json
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.dll
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.pdb
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.AssemblyInfo.cs
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.dll
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.pdb
+C:\Users\asus\Desktop\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.genruntimeconfig.cache
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.exe
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.deps.json
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.runtimeconfig.json
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.runtimeconfig.dev.json
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.dll
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\bin\Debug\netcoreapp3.0\PB1EXAM.pdb
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.AssemblyInfo.cs
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.dll
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.pdb
+C:\Users\asus\Desktop\FACULTA 2021-2022\FP EXAM\FPEXAM\PB1EXAM\PB1EXAM\obj\Debug\netcoreapp3.0\PB1EXAM.genruntimeconfig.cache
